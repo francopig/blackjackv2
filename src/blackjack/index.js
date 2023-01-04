@@ -12,11 +12,11 @@ const miModulo = (()=>{
   let agarradas = 0;
 
   //Referencias HTML
-  const btnPedir = document.querySelector('#btnPedir');
-  const btnDetener = document.querySelector('#btnDetener');
-  const btnNuevo = document.querySelector('#btnNuevo');
-  const puntosHTML = document.querySelectorAll('small');
-  const divCartasJugadores = document.querySelectorAll('.divCartas')
+  const btnPedir            = document.querySelector('#btnPedir');
+  const btnDetener          = document.querySelector('#btnDetener');
+  const btnNuevo            = document.querySelector('#btnNuevo');
+  const puntosHTML          = document.querySelectorAll('small');
+  const divCartasJugadores  = document.querySelectorAll('.divCartas')
   
   deck = crearDeck( tipos, especiales );
 
