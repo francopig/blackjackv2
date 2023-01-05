@@ -1,8 +1,8 @@
 # Blackjack 2.0
 
 ### Jugar en la web
-- Netlify      -> [Blackjackv2](https://blackjackv2.netlify.app/)
-- Github -> [Blackjackv2](https://francopig.github.io/blackjackv2/)
+- Netlify      -> [Blackjackv2](blank:#https://blackjackv2.netlify.app/)
+- Github -> [Blackjackv2](blank:#https://francopig.github.io/blackjackv2/)
 
 
 ### Pasos para ejecutar proyecto:
